@@ -16,7 +16,7 @@ async function randomCode() {
         let vehicle_car = ["BMX", "Scooter", "Junk Car", "Super Car", "Tank"];
         let vehicle_bonus = ["Rims", "Spoiler", "straight pipe", "nitro"];
         let superpower = ["Yes", "No"];
-        let superpower_bonus = ["Invisibility", "super speed", "super jump", "Max health","PLACEHOLDER"];
+        let superpower_bonus = ["Invisibility", "super speed", "super jump", "Max health","Flying"];
         let superpower_percent = ["1%", "10%", "50%", "100%"];
 
         for (var i = 0; i < 10000; i++) {
